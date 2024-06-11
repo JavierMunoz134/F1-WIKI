@@ -1,0 +1,200 @@
+{
+    "pilotos": [
+      {
+        "nombre": "Lewis",
+        "apellidos": "Hamilton",
+        "escuderia": "Mercedes",
+        "nacionalidad": "Reino Unido",
+        "edad": 39,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/hamilton.jpg.img.1920.medium.jpg/1708362076344.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      },
+      {
+        "nombre": "Max",
+        "apellidos": "Verstappen",
+        "escuderia": "Red Bull Racing",
+        "nacionalidad": "Países Bajos",
+        "edad": 27,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/verstappen.jpg.img.1920.medium.jpg/1708344264039.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      },
+      {
+        "nombre": "Fernando",
+        "apellidos": "Alonso",
+        "escuderia": "Aston Martin",
+        "nacionalidad": "España",
+        "edad": 43,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/alonso.jpg.img.1920.medium.jpg/1708344615576.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      },
+      {
+        "nombre": "Alexander",
+        "apellidos": "Albon",
+        "escuderia": "Williams",
+        "nacionalidad": "Tailandia",
+        "edad": 28,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/albon.jpg.img.1920.medium.jpg/1708362042590.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      }
+      ,
+      {
+        "nombre": "Valtteri",
+        "apellidos": "Bottas",
+        "escuderia": "Kick Sauber",
+        "nacionalidad": "Finlandia",
+        "edad": 35,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/bottas.jpg.img.1920.medium.jpg/1708448661324.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      }
+      ,
+      {
+        "nombre": "Pierre",
+        "apellidos": "Gasly",
+        "escuderia": "Alpine",
+        "nacionalidad": "Francia",
+        "edad": 28,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/gasly.jpg.img.1920.medium.jpg/1708344393640.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      },
+      {
+        "nombre": "Charles",
+        "apellidos": "Leclerc",
+        "escuderia": "Ferrari",
+        "nacionalidad": "Mónaco",
+        "edad": 26,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/leclerc.jpg.img.1920.medium.jpg/1708344558637.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Monaco.jpg"
+      }
+      ,
+      {
+        "nombre": "Carlos",
+        "apellidos": "Sainz",
+        "escuderia": "Ferrari",
+        "nacionalidad": "España",
+        "edad": 30,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/sainz.jpg.img.1920.medium.jpg/1708344524647.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      }
+      ,
+      {
+        "nombre": "Esteban",
+        "apellidos": "Ocon",
+        "escuderia": "Alpine",
+        "nacionalidad": "Francia",
+        "edad": 25,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/ocon",
+        "bandera": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/france-flag.png"
+      }
+      ,
+      {
+        "nombre": "Nico",
+        "apellidos": "Hulkenberg",
+        "escuderia": "Haas",
+        "nacionalidad": "Alemania",
+        "edad": 37,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/hulkenberg",
+        "bandera": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244974/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/thailand-flag.png"
+      }
+      ,
+      {
+        "nombre": "Kevin",
+        "apellidos": "Magnussen",
+        "escuderia": "Haas",
+        "nacionalidad": "Dinamarca",
+        "edad": 32,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/magnussen",
+        "bandera": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/denmark-flag.png"
+      }
+      ,
+      {
+        "nombre": "Lando",
+        "apellidos": "Norris",
+        "escuderia": "McLaren",
+        "nacionalidad": "Reino Unido",
+        "edad": 25,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/norris",
+        "bandera": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/united-kingdom-flag.png"
+      }
+      ,
+      {
+        "nombre": "Sergio",
+        "apellidos": "Perez",
+        "escuderia": "Red Bull Racing",
+        "nacionalidad": "México",
+        "edad": 31,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/perez",
+        "bandera": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/mexico-flag.png"
+      }
+      ,
+      {
+        "nombre": "Oscar",
+        "apellidos": "Piastri",
+        "escuderia": "McLaren",
+        "nacionalidad": "Australia",
+        "edad": 21,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/piastri",
+        "bandera": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244974/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/australia-flag.png"
+      }
+      ,
+      {
+        "nombre": "Daniel",
+        "apellidos": "Ricciardo",
+        "escuderia": "AlphaTauri",
+        "nacionalidad": "Australia",
+        "edad": 32,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/ricciardo",
+        "bandera": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/australia-flag.png"
+      }
+      ,
+      {
+        "nombre": "George",
+        "apellidos": "Russell",
+        "escuderia": "Mercedes",
+        "nacionalidad": "Reino Unido",
+        "edad": 24,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/russell",
+        "bandera": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/united-kingdom-flag.png"
+      }
+      ,
+      {
+        "nombre": "Logan",
+        "apellidos": "Sargeant",
+        "escuderia": "Williams",
+        "nacionalidad": "Estados Unidos",
+        "edad": 21,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/sargeant",
+        "bandera": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244974/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/united-states-flag.png"
+      }
+      ,
+      {
+        "nombre": "Lance",
+        "apellidos": "Stroll",
+        "escuderia": "Aston Martin",
+        "nacionalidad": "Canadá",
+        "edad": 23,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/stroll",
+        "bandera": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/canada-flag.png"
+      }
+      ,
+      {
+        "nombre": "Yuki",
+        "apellidos": "Tsunoda",
+        "escuderia": "AlphaTauri",
+        "nacionalidad": "Japón",
+        "edad": 21,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/tsunoda",
+        "bandera": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244974/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/japan-flag.png"
+      }
+      ,
+      {
+        "nombre": "Zhou",
+        "apellidos": "Guanyu",
+        "escuderia": "Kick Sauber",
+        "nacionalidad": "China",
+        "edad": 22,
+        "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/zhou",
+        "bandera": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677244974/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/china-flag.png"
+      }
+    
+    ]
+  }

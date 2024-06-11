@@ -1,0 +1,52 @@
+{
+    "circuitos": [
+      {
+        "nombre": "Circuito de Bahrein",
+        "localizacion": "Sakhir, Bahrein",
+        "ano_construccion": 2004,
+        "num_curvas": 15,
+        "foto": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245035/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Bahrain%20carbon.png.transform/3col/image.png",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/bahrain-flag.png.transform/2col/image.png"
+      },
+      {
+        "nombre": "Circuito de Albert Park",
+        "localizacion": "Melbourne, Australia",
+        "ano_construccion": 1996,
+        "num_curvas": 16,
+        "foto": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245032/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Australia%20carbon.png.transform/3col/image.png",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/australia-flag.png.transform/2col/image.png"
+      },
+      {
+        "nombre": "Circuito de Shanghai",
+        "localizacion": "Shanghai, China",
+        "ano_construccion": 2004,
+        "num_curvas": 16,
+        "foto": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/China%20carbon.png.transform/3col/image.png",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/china-flag.png.transform/2col/image.png"
+      },
+      {
+        "nombre": "Circuito de Catalunya",
+        "localizacion": "Montmelo, España",
+        "ano_construccion": 1991,
+        "num_curvas": 16,
+        "foto": "https://media.formula1.com/image/upload/f_auto/q_auto/v1680529432/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Spain%20carbon.png.transform/3col/image.png",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/spain-flag.png.transform/2col/image.png"
+      },
+      {
+        "nombre": "Circuito de Monaco",
+        "localizacion": "Monte Carlo, Monaco",
+        "ano_construccion": 1929,
+        "num_curvas": 19,
+        "foto": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245032/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Monte%20Carlo%20carbon.png.transform/3col/image.png",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/monaco-flag.png.transform/2col/image.png"
+      },
+      {
+        "nombre": "Circuito Gilles Villeneuve",
+        "localizacion": "Montreal, Canada",
+        "ano_construccion": 1978,
+        "num_curvas": 14,
+        "foto": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Canada%20carbon.png.transform/3col/image.png",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/canada-flag.png.transform/2col/image.png"
+      }
+    ]
+  }

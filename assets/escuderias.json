@@ -1,0 +1,111 @@
+{
+  "escuderias": [
+    {
+      "nombre": "Mercedes-AMG PETRONAS F1 Team      ",
+      "base": "Brackley, UK",
+      "jefe": "Toto Wolff",
+      "motor": "Mercedes",
+      "campeonatos": 8,
+      "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/mercedes.jpg",
+      "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Great-Britain.jpg",
+      "color": "#00D2BE"
+    },
+    {
+      "nombre": "Oracle Red Bull Racing      ",
+      "base": "Milton Keynes, UK",
+      "jefe": "Christian Horner",
+      "motor": "Honda",
+      "campeonatos": 6,
+      "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+      "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Great-Britain.jpg",
+      "color": "#0600EF"
+    },
+    {
+      "nombre": "Scuderia Ferrari",
+      "base": "Maranello, Italy",
+      "jefe": "Frédéric Vasseur      ",
+      "motor": "Ferrari",
+      "campeonatos": 16,
+      "foto": "https://media.formula1.com/content/dam/fom-website/teams/Ferrari/logo-ferrari-18%20.jpg",
+      "bandera": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/italy-flag.png.transform/2col/image.png",
+      "color": "#DC0000"
+    },
+    {
+      "nombre": "McLaren F1 Team",
+      "base": "Woking, UK",
+      "jefe": "Andrea Stella",
+      "motor": "Mercedes",
+      "campeonatos": 8,
+      "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/mclaren.jpg",
+      "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Great-Britain.jpg",
+      "color": "#FF8700"
+    },
+    {
+      "nombre": "Aston Martin Aramco F1 Team      ",
+      "base": "Silverstone, UK",
+      "jefe": "Mike Krack      ",
+      "motor": "Mercedes",
+      "campeonatos": 0,
+      "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/aston%20martin%202024.jpg",
+      "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Great-Britain.jpg",
+      "color": "#006F62"
+    },
+    {
+      "nombre": "Alpine F1 Team",
+      "base": "Enstone, UK",
+      "jefe": "Bruno Famin      ",
+      "motor": "Renault",
+      "campeonatos": 2,
+      "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/alpine.jpg",
+      "bandera": "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/United%20Kingdom.jpg.transform/2col/image.jpg",
+      "color": "#0090FF"
+    }
+    ,
+    {
+      "nombre": "Haas F1 Team",
+      "base": "Kannapolis, USA",
+      "jefe": "Guenther Steiner",
+      "motor": "Ferrari",
+      "campeonatos": 0,
+      "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/haas.jpg",
+      "bandera": "https://media.formula1.com/content/dam/fom-website/flags/United%20States.jpg",
+      "color": "#9b9b9b"
+    }
+    ,
+    {
+      "nombre": "Kick Sauber",
+      "base": "Hinwil, Switzerland",
+      "jefe": "Alessandro Alunni Bravi",
+      "motor": "Ferrari",
+      "campeonatos": 0,
+      "foto": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/2018-redesign-assets/team%20logos/kick%20sauber",
+      "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Switzerland.jpg",
+      "color": "#52e252"
+    }
+    ,
+    {
+      "nombre": "Williams Racing",
+      "base": "Grove, UK",
+      "jefe": "Jost Capito",
+      "motor": "Mercedes",
+      "campeonatos": 9,
+      "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/williams.jpg",
+      "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Great-Britain.jpg",
+      "color": "#005AFF"
+    }
+    ,{
+      "nombre": "Alphatauri",
+      "base": "Faenza, Italy",
+      "jefe": "Laurent Mekies",
+      "motor": "Honda",
+      "campeonatos": 0,
+      "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/alphatauri.jpg",
+      "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Italy.jpg",
+      "color": "#2B4562"
+    }
+
+    
+
+     
+  ]
+}
